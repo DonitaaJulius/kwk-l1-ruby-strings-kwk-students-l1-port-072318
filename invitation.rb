@@ -22,7 +22,7 @@ host_name = gets.strip
 puts "My name is #{host_name}"
 
 
-puts "Dear" + guest_name 
+puts "Dear " + guest_name 
 puts "You are cordially invited to the " + party_name + " on " + date + " at " + time + "."
 puts "Please RSVP by " + rsvp 
 
