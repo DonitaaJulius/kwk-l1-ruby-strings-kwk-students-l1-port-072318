@@ -13,7 +13,7 @@ puts "The party is #{party_name}"
 puts "When is the party?"
 puts  "The party is on #{date} at #{time}"
 
-puts "Dear" + guestname 
+puts "Dear" + guest_name 
 puts "You are cordially invited to the " + party_name + " on " + date " at " + time "."
 
 
