@@ -13,9 +13,15 @@ date = gets.strip
 time = gets.strip
 puts  "The party is on #{date} at #{time}"
 
+puts "rsvp date?"
+rsvp = gets.strip
+puts "RSVP by #{rsvp}"
+
 
 puts "Dear" + guest_name 
 puts "You are cordially invited to the " + party_name + " on " + date + " at " + time + "."
+
+
 
 
 
